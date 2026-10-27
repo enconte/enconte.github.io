@@ -1,0 +1,4 @@
+# app-ads.txt de enconte (https://iabtechlab.com/ads-txt/)
+# Cuando tengas la cuenta de AdMob, reemplazá esta línea por la que muestra
+# AdMob > Apps > Configurar app-ads.txt, por ejemplo:
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
